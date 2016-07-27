@@ -1,0 +1,6 @@
+C:\Users\devion\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\devion\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\devion\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\devion\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\devion\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\devion\Documents\Visual Studio 2010\Projects\WebApplication1\WebApplication1\obj\Release\WebApplication1.pdb
